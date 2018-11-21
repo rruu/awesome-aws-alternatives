@@ -8,17 +8,18 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 
 ## Run an App Services
 
-### EC2 - Amazon Virtual Servers
+### Compute Engine
 
 * [Hetzner](https://hetzner.de) - Dedicated and Virtual servers. Well-known company for providing dedicated and virtual services.
 * [DigitalOcean](https://digitalocean.com) - Virtual Servers, Block storage, Load balancing and Firewalls. Another well-known company that provides dedicated and virtual servers.
-* [Contabo](https://contabo.com) - Servers and VPS (found [here](http://www.yegor256.com/2017/07/25/my-favorite-websites.html)).
 * [ArubaCloud](https://www.arubacloud.com/vps/virtual-private-server-range.aspx) - VPS: 1 euro/month for 1GB RAM, 20GB storage, 2TB data transfer.
+* [Online](https://www.online.net) - Public cloud starting at €1.99/mo. Bare metal dedicated server at €9.99 /mo.
 
 ### S3 - Unlimited Storage
 
 * [Backblaze B2 storage](https://www.backblaze.com/b2/cloud-storage.html) - inexpensive cloud storage, they claim to will cost you ¼ the Price.
 * [Scalable Object Storage on DigitalOcean](https://blog.digitalocean.com/introducing-spaces-object-storage/) - object storage from DigitalOcean with [AWS S3 compatibility](https://developers.digitalocean.com/documentation/spaces/#introduction).
+* [Scaleway](https://scaleway.com) - Object Storage at €5/mo. (Public beta)
 
 ## Web Developer Services
 
@@ -59,4 +60,3 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 
-To the extent possible under law, [Roman Pushkin](https://github.com/ro31337) has waived all copyright and related or neighboring rights to this work.
